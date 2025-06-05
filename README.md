@@ -5,7 +5,7 @@ publicly available datasets.
 
 ## How to follow the course
 
-- Follow the [Python_for_Subsurface.pdf](Python_for_Subsurface.pdf). 
+- Follow the [course notes](Python_for_Subsurface.pdf). 
 
 - The code is included in the directory `code`, and the data in the directory `data`. 
 
